@@ -1,8 +1,8 @@
 # LED-No-Solder
-.8mm PCB that includes coin cell holder and LED that can be attached with no solder
+.8mm PCB that includes coin cell holder and LED that can be attached with no solder  
+Available on Tindie: https://www.tindie.com/products/jeremycook/led-no-solder-3-pack/
 
 ![image](led-no-solder1.jpg)
-
 
 ![image](led-no-solder.png)
 
