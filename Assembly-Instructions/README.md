@@ -18,7 +18,7 @@ Bend, secure, cut as needed. Test.
 
 ![image](LNS-step4-heatshrink.jpg)
 
-Apply heat shrink.
+Apply heat shrink. Heat (not shown)
 
 ![image](LNS-step5-done.jpg)
 
