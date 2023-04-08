@@ -1,5 +1,7 @@
 ### Assembly instructions:
 
+The LED-No-Solder is a simple device that completes a circuit when the PCB tab is held down. Assemble as shown below. No solder is required, but can optionally be added to the last bend or elsewhere.
+
 Build Video: https://www.youtube.com/watch?v=3N0H6gIqDZk
 
 ![image](LNS-step1-orientation.jpg)
@@ -14,11 +16,11 @@ Thread through two contact pads. Can be helpful to pre-bend leads in opposite di
 
 ![image](LNS-step3-test.jpg)
 
-Bend, secure, cut as needed. Test.
+Bend, secure, trim as needed. Test.
 
 ![image](LNS-step4-heatshrink.jpg)
 
-Apply heat shrink. Heat (not shown)
+Apply heat shrink. Heat (not shown).
 
 ![image](LNS-step5-done.jpg)
 
